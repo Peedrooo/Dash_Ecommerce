@@ -1,0 +1,25 @@
+body{
+    background-color: #242423;
+}
+
+h1 {
+    color: #13D6C0;
+    font-size: 2.5em;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.grafico {
+    display: flex;
+    justify-content: center;
+    padding: 3%;
+
+}
+#container {
+    width: 100%;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+
+}
