@@ -1,0 +1,67 @@
+body{
+    background-color: #242423;
+}
+
+h1 {
+    color: #13D6C0;
+    font-size: 2.5em;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 75px;
+    margin-bottom: 15px;
+    font-style: oblique;
+}
+
+h3 {
+    color: #13D6C0;
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: left;
+    margin-left: 10px;
+    
+}
+
+.grafico {
+    display: flex;
+    justify-content: center;
+
+}
+
+#container {
+    width: 100%;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.dropdown {
+    margin-top: 20px;
+    margin-left: 10px;
+    width: 200px;
+    display: flex;
+    color: black;
+    background-color: #242423;
+    
+}
+
+.radio {
+    display: flex;
+    color: white;
+    font-size: large;
+    margin-top: 30px;
+
+}
+
+.box-content{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: left;
+    margin-top: 50px;
+    margin-left: 10px;
+}
+
+#tipo-grafico{
+    margin-left: 50px;
+}
